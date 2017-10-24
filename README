@@ -1,0 +1,10 @@
+# The following plot provides an ideal of the continental shelf near Maud Rise
+gplot.py ETOPO1_Bed_c_gmt4.grd,z,=-72:-60,=2.6
+
+Shelf ~ 100 km wide
+Min depth = 500 m
+Max depth = 5000 m
+Min depth over Maud Rise ~ 2000 m
+Slope Width ~ 200 km
+
+
